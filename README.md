@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">A passionate wanna be developer from Turkey</h3>
+<h1 align="center">Hey, I'm Mert</h1>
+<h3 align="center">A guy who loves coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetmertdenizman&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetmertdenizman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetmertdenizman" alt="mehmetmertdenizman" /></a> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#, html, css, js and nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
